@@ -1,1 +1,1 @@
-{"DeviceId":"kontol","GoogleId":"kontol","FacebookId":"kontol","Token":"kontol","Timestamp":kontol,"Hash":"kontol"} 
+{"DeviceId":"3ea10f2908298278e5a2d331ca6dd8b1","GoogleId":"g11019676550304217511","FacebookId":"","Token":"iEWoFnodqIZFTG42fRR4NzEmdcMgRk3c","Timestamp":1655063523,"Hash":"2df295aca868ca90e50dfd831b6ddbe956f26e5d"}
